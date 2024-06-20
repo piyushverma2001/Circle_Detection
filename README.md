@@ -1,3 +1,4 @@
-# Circle Detection
+# Circle Detection Software
 
-Detect a circle in a image using OpenCV module and Python.
+### Detect a circle in a image.
+### Implemented using OpenCV library and Python.
